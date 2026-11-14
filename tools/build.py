@@ -157,6 +157,7 @@ page = f"""<!doctype html>
 </footer>
 
 </main>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "10b709bac2104dcbbf747a487e776249"}}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
 """
